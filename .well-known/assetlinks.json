@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.kaneki388.twa",
+        "sha256_cert_fingerprints": ["4E:BC:17:7A:F8:63:C4:B4:5C:15:A7:77:0B:80:2A:2E:92:AE:A4:26:86:C2:DA:8F:FE:87:F3:82:4B:C6:64:04"]
+      }
+    }]
